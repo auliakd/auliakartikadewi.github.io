@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://auliakartikadewi.github.io/sitemap.xml
+Sitemap: https://auliakd.github.io/sitemap.xml
