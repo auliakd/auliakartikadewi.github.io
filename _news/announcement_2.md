@@ -1,33 +1,80 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: "Visiting Universities & Research Labs – Singapore & Malaysia"
+date: 2023-11-27
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+In late November 2023, I had the opportunity to participate in an academic visit to two neighboring countries, **Singapore and Malaysia**, together with my lecturer and fellow students. This experience was meaningful not only in expanding academic knowledge but also in understanding research culture and global collaboration in higher education environments.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+## Singapore — National University of Singapore (NUS) & Nanyang Technological University (NTU)
 
-#### Hipster list
+Our journey began in **Singapore**, where we visited two world-leading institutions:  
+**National University of Singapore (NUS)** and **Nanyang Technological University (NTU)**.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+During our time there, we explored:
+- **Information Systems Research Labs**
+- **NUS Library**
+- **The Hive (NTU Learning Hub)**
+- Various academic spaces and study environments
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+We learned about how research is structured, how interdisciplinary collaboration is encouraged, and how campus culture supports innovation and continuous learning.
+
+### NUS Photo Highlights
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0;">
+  <img src="/assets/img/photo7.png" width="500px">
+</div>
+
+
+### NTU Photo Highlights
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0;">
+  <img src="/assets/img/photo6.png" width="500px">
+</div>
+
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+## Malaysia — UiTM Kelantan & Universiti Teknologi Petronas (UTP)
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+The academic journey continued in **Malaysia**, where we visited **Universiti Teknologi MARA (UiTM) Kelantan** and **Universiti Teknologi Petronas (UTP)**.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Here, we:
+- Engaged in discussions with lecturers and researchers
+- Shared perspectives on ongoing academic work
+- Explored potential collaboration for research and student mobility
+- Observed research facilities and learning environments
+
+### UiTM Photo Highlights
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0;">
+  <img src="/assets/img/photo8.png" width="500px">
+</div>
+
+### UTP Photo Highlights
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0;">
+  <img src="/assets/img/photo9.png" width="500px">
+</div>
+
+---
+
+## Key Takeaways
+
+- Gained firsthand insights into **international research culture**
+- Observed how innovation is supported within university ecosystems
+- Strengthened academic networks for potential **future collaboration**
+- Experienced diversity in educational environments across borders
+
+---
+
+### Summary (Professional Highlights)
+
+- Visited **NUS** and **NTU** to explore Information Systems research facilities and academic spaces.
+- Conducted academic discussions and cultural exchange sessions at **UiTM Kelantan**.
+- Participated in research and collaboration dialogues at **UTP**, Malaysia.
+- Developed broader understanding of **global academic collaboration**, research culture, and innovation ecosystems.
+
+---
+
+This journey was a valuable milestone in my academic pathway — a reminder that learning can grow far beyond the classroom when we step out into the world.
