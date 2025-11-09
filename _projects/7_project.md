@@ -40,11 +40,7 @@ The program involved various interactive learning activities designed to strengt
 ### Outcome
 Through continuous participation, I gained not only language proficiency but also **presentation confidence, leadership in discussions**, and **adaptability in international communication contexts** — skills that directly support my career in the field of **Information Systems and global collaboration**.
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-10 mt-3">
-    {% include figure.liquid path="assets/img/proenglish-preview.jpg" title="Project Pro English Program" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+
 <div class="caption">
   Project Pro English — building communication excellence through debate, listening, and real-life English practice.
 </div>
