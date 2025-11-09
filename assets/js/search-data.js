@@ -116,9 +116,9 @@ ninja.data = [{
           section: "News",},{id: "news-joined-pt-surya-mas-perkasa-karawang-as-project-control-administrator",
           title: 'Joined PT. Surya Mas Perkasa (Karawang) as Project Control Administrator.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-smartech-dcs-ivenstory",
+          title: 'SMARTech DCS IVENSTORY',
+          description: "Prototype of a web-based inventory management system developed during internship at PT. Riau Andalan Pulp and Paper",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
