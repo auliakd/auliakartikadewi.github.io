@@ -2,7 +2,7 @@
 layout: page
 title: Potensi Alam Riau
 description: Web design project supporting local economic sustainability and SDGs
-img: assets/img/potensialam.jpg
+img: assets/img/potensialam.png
 importance: 2
 category: work
 ---
@@ -21,10 +21,10 @@ I designed the structure, color palette, and imagery to reflect the authenticity
 
 <div class="row">
   <div class="col-sm mt-3">
-    {% include figure.liquid path="assets/img/potensialam-home.jpg" title="Homepage Design" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/potensialam-home.png" title="Homepage Design" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3">
-    {% include figure.liquid path="assets/img/potensialam-produk.jpg" title="Local Product Page" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/potensialam-produk.png" title="Local Product Page" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -43,7 +43,7 @@ It helped strengthen my understanding of **user-centered design** and **visual c
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3">
-    {% include figure.liquid path="assets/img/potensialam-preview.jpg" title="Potensi Alam Riau Web Design Mockup" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/potensialam-preview.png" title="Potensi Alam Riau Web Design Mockup" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
