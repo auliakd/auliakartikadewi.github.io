@@ -21,10 +21,10 @@ As an **intern web developer**, I was responsible for designing the system inter
 
 <div class="row">
   <div class="col-sm mt-3">
-    {% include figure.liquid path="assets/img/inventory-dashboard.jpg" title="Inventory Dashboard" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/inventory-dashboard.png" title="Inventory Dashboard" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3">
-    {% include figure.liquid path="assets/img/inventory-form.jpg" title="Inventory Input Form" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/inventory-form.png" title="Inventory Input Form" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
