@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-worked-as-project-manager-at-pro-english-pt-pro-knowledge-indonesia",
+            },},{id: "news-worked-as-project-manager-at-pro-english-pt-pro-knowledge-indonesia",
           title: 'Worked as Project Manager at Pro English (PT. PRO Knowledge Indonesia).',
           description: "",
           section: "News",},{id: "news-visiting-universities-amp-research-labs-singapore-amp-malaysia",
@@ -451,7 +448,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-first-academic-book-published-kesalahan-dalam-menulis-jilid-1-view-book",
+          title: 'First academic book published “Kesalahan dalam Menulis — Jilid 1”.  View Book',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
