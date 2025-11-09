@@ -1,81 +1,51 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Potensi Alam Riau
+description: Web design project supporting local economic sustainability and SDGs
+img: assets/img/potensialam.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Overview
+**Potensi Alam Riau** is a **web design initiative** that aims to promote local natural resources and empower community-based economic growth in Riau Province.  
+This project was created as part of an academic and design exercise supporting the **Sustainable Development Goals (SDGs)**, particularly Goal 8 (*Decent Work and Economic Growth*) and Goal 12 (*Responsible Consumption and Production*).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### My Role
+As a **UI/UX Designer**, I focused on conceptualizing the visual identity and layout of the website.  
+I designed the structure, color palette, and imagery to reflect the authenticity and richness of Riau’s natural products while ensuring a user-friendly browsing experience.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Tools & Technologies
+- **Design:** Figma, Canva  
+- **Prototyping & Presentation:** Figma components, mockups, and interactive wireframes  
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3">
+    {% include figure.liquid path="assets/img/potensialam-home.jpg" title="Homepage Design" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3">
+    {% include figure.liquid path="assets/img/potensialam-produk.jpg" title="Local Product Page" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+<div class="caption">
+  The homepage and product section emphasize the natural and local value of Riau’s resources.
+</div>
 
-{% endraw %}
+### Design Highlights
+- Developed a **clean, minimalist layout** emphasizing local identity and eco-conscious branding.  
+- Integrated visual storytelling through imagery and typography.  
+- Created a **prototype flow** demonstrating user navigation and product exploration.  
+- Ensured accessibility and consistency across design components.
+
+### Outcome
+The design served as a **prototype and concept website** to showcase how digital platforms can promote sustainable local products.  
+It helped strengthen my understanding of **user-centered design** and **visual communication for impact-driven projects**.
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3">
+    {% include figure.liquid path="assets/img/potensialam-preview.jpg" title="Potensi Alam Riau Web Design Mockup" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Potensi Alam Riau — conceptual web design promoting local economic sustainability.
+</div>
