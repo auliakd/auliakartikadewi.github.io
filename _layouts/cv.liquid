@@ -92,42 +92,40 @@ layout: default
             <div>
               {% case data[0] %}
               {% when 'basics' %}
-    {%- comment -%}
-    {% include resume/basics.liquid %}
-    {%- endcomment -%}
+    {%- comment -%} {% include resume/basics.liquid %} {%- endcomment -%}
 
   {% when 'education' %}
-    {% include resume/education.liquid %}
+    {%- comment -%} {% include resume/education.liquid %} {%- endcomment -%}
 
   {% when 'work' %}
-    {% include resume/work.liquid %}
+    {%- comment -%} {% include resume/work.liquid %} {%- endcomment -%}
 
   {% when 'volunteer' %}
-    {% include resume/volunteer.liquid %}
+    {%- comment -%} {% include resume/volunteer.liquid %} {%- endcomment -%}
 
   {% when 'projects' %}
-    {% include resume/projects.liquid %}
+    {%- comment -%} {% include resume/projects.liquid %} {%- endcomment -%}
 
   {% when 'awards' %}
-    {% include resume/awards.liquid %}
+    {%- comment -%} {% include resume/awards.liquid %} {%- endcomment -%}
 
   {% when 'skills' %}
-    {% include resume/skills.liquid %}
+    {%- comment -%} {% include resume/skills.liquid %} {%- endcomment -%}
 
   {% when 'publications' %}
-    {% include resume/publications.liquid %}
+    {%- comment -%} {% include resume/publications.liquid %} {%- endcomment -%}
 
   {% when 'languages' %}
-    {% include resume/languages.liquid %}
+    {%- comment -%} {% include resume/languages.liquid %} {%- endcomment -%}
 
   {% when 'interests' %}
-    {% include resume/interests.liquid %}
+    {%- comment -%} {% include resume/interests.liquid %} {%- endcomment -%}
 
   {% when 'certificates' %}
-    {% include resume/certificates.liquid %}
+    {%- comment -%} {% include resume/certificates.liquid %} {%- endcomment -%}
 
   {% when 'references' %}
-    {% include resume/references.liquid %}
+    {%- comment -%} {% include resume/references.liquid %} {%- endcomment -%}
                 {% else %}
 
               {% endcase %}
