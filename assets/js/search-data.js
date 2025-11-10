@@ -83,6 +83,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/funiculi_funicula_2/";
+            },},{id: "books-harry-potter-and-the-philosopher-39-s-stone",
+          title: 'Harry Potter and the Philosopher&amp;#39;s Stone',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/harrypotterphilosophers/";
             },},{id: "news-worked-as-project-manager-at-pro-english-pt-pro-knowledge-indonesia",
           title: 'Worked as Project Manager at Pro English (PT. PRO Knowledge Indonesia).',
           description: "",
