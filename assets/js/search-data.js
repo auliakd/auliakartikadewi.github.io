@@ -85,8 +85,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/funiculi_funicula/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-funiculi-funicula-2-tales-from-the-café",
+          title: 'Funiculi Funicula 2: Tales from the Café',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/funiculi_funicula_2/";
