@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Funiculi Funicula 2: Tales from the Café
+title: "Funiculi Funicula 2: Tales from the Café"
 author: Toshikazu Kawaguchi
 cover: assets/img/book_covers/funiculi_funicula_2.jpg
 olid: OL28502014M
