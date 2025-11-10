@@ -7,12 +7,11 @@ olid: OL28502014M
 isbn: 9781335630988
 categories: fiction drama time-travel japanese
 tags: sequel heartwarming
-buy_link: https://www.amazon.com/Before-Coffee-Gets-Cold-Tales/dp/1335630989
+buy_link: https://www.gramedia.com/products/funiculi-funicula-kisah-kisah-yang-baru-terungkap
 started: 2024-06-12
 finished: 2024-07-01
 released: 2017
 stars: 4
-goodreads_review: 9876543210
 status: Finished
 ---
 
