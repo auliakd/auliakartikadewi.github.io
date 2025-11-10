@@ -7,12 +7,11 @@ olid: OL27302363M
 isbn: 9784592761956
 categories: fiction drama time-travel japanese
 tags: emotional heartwarming
-buy_link: https://www.amazon.com/Funiculi-Funicula-Toshikazu-Kawaguchi/dp/4592761956
+buy_link: https://www.gramedia.com/products/funiculi-funicula-kohi-ga-samenai-uchi-ni-before-the-coffee-gets-cold
 started: 2023-12-10
 finished: 2024-01-05
 released: 2015
 stars: 5
-goodreads_review: 1234567890
 status: Finished
 ---
 
