@@ -7,12 +7,11 @@ olid: OL26331930M
 isbn: 9780747532699
 categories: fantasy magic adventure british
 tags: coming-of-age friendship courage
-buy_link: https://www.amazon.com/Harry-Potter-Philosophers-Stone-Rowling/dp/0747532699
+buy_link: https://www.gramedia.com/products/harry-potter-and-the-philosophers-stone
 started: 2025-11-10
 finished:
 released: 1997
 stars:
-goodreads_review:
 status: Reading
 ---
 
